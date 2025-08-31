@@ -45,3 +45,10 @@ This demonstrates **real-time input capture** and **file persistence** in Python
 - Python 3
 
 ---
+
+##  Images / Screenshots  
+
+![Example Image](exm.png)  
+
+---
+
